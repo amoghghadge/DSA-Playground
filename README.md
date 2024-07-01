@@ -1,1 +1,42 @@
-Playing around with algorithms
+## Things to update repo with:
+- Python 3 syntax & tricks
+    - Typing and default values for arguments combined
+    - One liners
+    - Classes
+    - Data structures
+    - Testing solutions (creating solution class and calling outside)
+    - Main method
+- C++ syntax and templates
+    - CSO 2 last lab
+- Arrays / Hashing + examples
+    - Prefix computations
+    - Bucket sort
+- Strings / String building
+- 2 pointer template + examples
+- Sliding window template + examples
+    - Also 3 pointer sliding window
+- Stack + examples
+    - Monotonic increasing/decreasing stack
+- Binary search template + examples
+- Linked List patterns + examples
+- Tree traversals and general recursion examples
+- Heap + examples
+- Backtracking template + examples
+- Trie class
+- Graphs
+    - DFS and BFS traversals
+    - Topological sort & cycle detection
+    - Union find
+    - Dijkstra’s
+    - MSTs (Kruskal’s/Prim’s)
+    - Strongly connected components
+    - Network flow
+    - Floyd-Warshall
+    - A*
+- DP patterns + examples
+    - Watch neetcode video
+- Classic greedy examples
+- Classic interval examples
+- Classic math/geometry examples
+- Classic bit manipulation examples
+- Divide and conquer + master theorem + examples
