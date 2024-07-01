@@ -15,7 +15,7 @@ graph = {
 
 def bfs(start):
     queue = deque([start])
-    seen = {start}
+    seen = set([start])
 
     while queue:
         print(queue[0], seen)
@@ -35,7 +35,7 @@ bfs("1")
 
 def dfs_iter(start):
     stack = [start]
-    seen = {start}
+    seen = set([start])
 
     while stack:
         print(stack[-1], seen)
@@ -58,7 +58,7 @@ def dfs_recur(start, seen):
             dfs_recur(nei, seen)
 
 print("Recursive DFS")
-seen = {"1"}
+seen = set(["1"])
 dfs_recur("1", seen)
 
 # DFS edge types [images/graph_edges.png]
